@@ -7,6 +7,7 @@ import { setQuery, fetchUsers } from '../users/usersSlice';
 
 const SearchBarInput = styled.input`
   box-sizing: border-box;
+  font-size: 2.5vh;
   width: 100%;
   background-color: #F2F2F2;
   padding: 1.3vh;
