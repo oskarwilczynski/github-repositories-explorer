@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github-repositories-explorer/static/css/main.afd4f80d.chunk.css",
+    "main.js": "/github-repositories-explorer/static/js/main.fbea12a1.chunk.js",
+    "main.js.map": "/github-repositories-explorer/static/js/main.fbea12a1.chunk.js.map",
+    "runtime-main.js": "/github-repositories-explorer/static/js/runtime-main.69ed83e1.js",
+    "runtime-main.js.map": "/github-repositories-explorer/static/js/runtime-main.69ed83e1.js.map",
+    "static/js/2.d0af07e6.chunk.js": "/github-repositories-explorer/static/js/2.d0af07e6.chunk.js",
+    "static/js/2.d0af07e6.chunk.js.map": "/github-repositories-explorer/static/js/2.d0af07e6.chunk.js.map",
+    "index.html": "/github-repositories-explorer/index.html",
+    "static/css/main.afd4f80d.chunk.css.map": "/github-repositories-explorer/static/css/main.afd4f80d.chunk.css.map",
+    "static/js/2.d0af07e6.chunk.js.LICENSE.txt": "/github-repositories-explorer/static/js/2.d0af07e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69ed83e1.js",
+    "static/js/2.d0af07e6.chunk.js",
+    "static/css/main.afd4f80d.chunk.css",
+    "static/js/main.fbea12a1.chunk.js"
+  ]
+}
