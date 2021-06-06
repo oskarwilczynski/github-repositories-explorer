@@ -13,7 +13,7 @@ const SearchBarInput = styled.input`
   padding: 1.3vh;
   border-color: #E9E9E9;
   border-style: solid;
-  margin-bottom: 1.5vh;
+  margin-bottom: 6px;;
 `;
 
 const SearchBar = (): JSX.Element => {

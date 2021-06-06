@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import type { Repo } from './Repos.types';
 import SingleRepo from './SingleRepo';
 import LongBlueButton from '../../styles/Buttons.styles';

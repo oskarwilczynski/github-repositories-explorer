@@ -28,6 +28,11 @@ const TitleAndStars = styled.div`
 const RepoTitle = styled.h6`
   font-size: 2.5vh;
   margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
 `;
 
 const RepoDescription = styled.p`
